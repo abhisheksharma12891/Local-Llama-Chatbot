@@ -1,4 +1,4 @@
-# 🦙 Local AI Chatbot (Ollama + Llama 3)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/86ad43f0-09ce-4116-9a41-0f7018adda1b" />**# 🦙 Local AI Chatbot (Ollama + Llama 3)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1TVThqcebetFv8u/giphy.gif" width="200" alt="AI Chatbot GIF" />
@@ -100,7 +100,7 @@ streamlit run start (local_llm).py
 ## 📸 Screenshots
 
 ```md
-![Chatbot UI](https://github.com/abhisheksharma12891/Local-Llama-Chatbot/tree/main/assets/)
+![Chatbot UI](https://github.com/abhisheksharma12891/Local-Llama-Chatbot/tree/main/assets/chatbot.png)
 ```
 
 ---
@@ -137,3 +137,4 @@ Then pull the model:
 
 ```bash
 ollama run llama3
+**
