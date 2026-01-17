@@ -99,10 +99,8 @@ streamlit run start (local_llm).py
 
 ## 📸 Screenshots
 
-Add screenshots inside an `assets/` folder and link them here.
-
 ```md
-![Chatbot UI](assets/chatbot.png)
+![Chatbot UI](https://github.com/abhisheksharma12891/Local-Llama-Chatbot/tree/main/assets)
 ```
 
 ---
