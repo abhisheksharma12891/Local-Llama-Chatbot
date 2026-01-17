@@ -101,7 +101,7 @@ streamlit run start (local_llm).py
 
 ```md
 
-[![Chatbot UI](https://raw.githubusercontent.com/abhisheksharma12891/Local-Llama-Chatbot/main/assets/chatbot.png)](https://raw.githubusercontent.com/abhisheksharma12891/Local-Llama-Chatbot/main/assets/chatbot.png)
+![Chatbot UI](https://github.com/abhisheksharma12891/Local-Llama-Chatbot/tree/main/assets/chatbot.png)
 
 ```
 
